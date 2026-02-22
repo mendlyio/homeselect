@@ -1,6 +1,6 @@
 "use client";
 
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import { useTranslations } from "next-intl";
 import { motion, AnimatePresence } from "framer-motion";
 import {
@@ -68,6 +68,10 @@ export default function HomePage() {
   const [phone, setPhone] = useState("");
   const [errors, setErrors] = useState<Record<string, string>>({});
   const [submitting, setSubmitting] = useState(false);
+
+  useEffect(() => {
+    window.scrollTo({ top: 0, behavior: "smooth" });
+  }, [step]);
 
   const toggleService = (key: ServiceKey) => {
     setSelectedServices((prev) =>
@@ -213,6 +217,7 @@ export default function HomePage() {
                 exit="exit"
                 transition={{ duration: 0.25, ease: "easeInOut" }}
               >
+                <p className="mb-3 text-sm font-medium text-black/50">{t1("subtitle")}</p>
                 <div className="grid grid-cols-3 gap-2.5">
                   {SERVICES.map((service, i) => (
                     <ServiceCard
