@@ -29,6 +29,7 @@ import { ServiceCard } from "@/components/ServiceCard";
 import { OwnerTenantSelect } from "@/components/OwnerTenantSelect";
 import { PhoneInput } from "@/components/PhoneInput";
 import { ValueProps } from "@/components/ValueProps";
+import { Reviews } from "@/components/Reviews";
 import { trackLead } from "@/components/MetaPixel";
 import { LanguageSwitcher } from "@/components/LanguageSwitcher";
 
@@ -469,6 +470,10 @@ export default function HomePage() {
           </AnimatePresence>
         </div>
         </div>{/* max-w-md */}
+
+      {/* Avis clients */}
+      <Reviews />
+
     </div>
   );
 }
