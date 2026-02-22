@@ -298,7 +298,7 @@ export default function HomePage() {
                           setErrors((prev) => ({ ...prev, name: "" }));
                         }}
                         placeholder={t2("namePlaceholder")}
-                        className={`w-full rounded-xl border-2 bg-white px-4 py-3 text-sm text-black outline-none placeholder:text-slate-400 transition-all ${
+                        className={`w-full rounded-xl border-2 bg-white px-4 py-3 text-base text-black outline-none placeholder:text-slate-400 transition-all ${
                           errors.name
                             ? "border-red-400"
                             : "border-slate-200 focus:border-black"

@@ -37,7 +37,7 @@ export function PhoneInput({ value, onChange, error }: Props) {
           value={value}
           onChange={handleChange}
           placeholder={t("phonePlaceholder")}
-          className="flex-1 px-3 py-3 text-sm text-black outline-none placeholder:text-slate-400"
+          className="flex-1 px-3 py-3 text-base text-black outline-none placeholder:text-slate-400"
           maxLength={10}
         />
       </div>
