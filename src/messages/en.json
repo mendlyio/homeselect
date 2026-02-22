@@ -35,7 +35,7 @@
     "handyman": "Handyman",
     "doors": "Doors & Windows",
     "moving": "Moving",
-    "next": "Specify my project"
+    "next": "Continue"
   },
   "step2": {
     "title": "Last step!",
@@ -47,7 +47,7 @@
     "namePlaceholder": "John Smith",
     "phone": "Your phone number",
     "phonePlaceholder": "50 123 4567",
-    "submit": "See available offers",
+    "submit": "Specify my project",
     "back": "Back"
   },
   "step3": {

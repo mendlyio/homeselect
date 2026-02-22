@@ -35,7 +35,7 @@
     "handyman": "Klusjesman",
     "doors": "Deuren & Ramen",
     "moving": "Verhuizing",
-    "next": "Mijn project specificeren"
+    "next": "Doorgaan"
   },
   "step2": {
     "title": "Laatste stap!",
@@ -47,7 +47,7 @@
     "namePlaceholder": "Jan Janssen",
     "phone": "Uw telefoonnummer",
     "phonePlaceholder": "50 123 4567",
-    "submit": "Beschikbare aanbiedingen bekijken",
+    "submit": "Mijn project specificeren",
     "back": "Terug"
   },
   "step3": {

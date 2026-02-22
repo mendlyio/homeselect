@@ -35,7 +35,7 @@
     "handyman": "Handwerker",
     "doors": "Türen & Fenster",
     "moving": "Umzug",
-    "next": "Mein Projekt angeben"
+    "next": "Weiter"
   },
   "step2": {
     "title": "Letzter Schritt!",
@@ -47,7 +47,7 @@
     "namePlaceholder": "Max Mustermann",
     "phone": "Ihre Telefonnummer",
     "phonePlaceholder": "50 123 4567",
-    "submit": "Verfügbare Angebote anzeigen",
+    "submit": "Mein Projekt angeben",
     "back": "Zurück"
   },
   "step3": {

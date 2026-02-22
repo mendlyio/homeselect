@@ -35,7 +35,7 @@
     "handyman": "Bricolage",
     "doors": "Portes & Fenêtres",
     "moving": "Déménagement",
-    "next": "Préciser mon projet"
+    "next": "Continuer"
   },
   "step2": {
     "title": "Dernière étape !",
@@ -47,7 +47,7 @@
     "namePlaceholder": "Jean Dupont",
     "phone": "Votre numéro de téléphone",
     "phonePlaceholder": "50 123 4567",
-    "submit": "Voir les offres disponibles",
+    "submit": "Préciser mon projet",
     "back": "Retour"
   },
   "step3": {

@@ -35,7 +35,7 @@
     "handyman": "Manitas",
     "doors": "Puertas & Ventanas",
     "moving": "Mudanza",
-    "next": "Precisar mi proyecto"
+    "next": "Continuar"
   },
   "step2": {
     "title": "¡Último paso!",
@@ -47,7 +47,7 @@
     "namePlaceholder": "Juan García",
     "phone": "Tu número de teléfono",
     "phonePlaceholder": "50 123 4567",
-    "submit": "Ver ofertas disponibles",
+    "submit": "Precisar mi proyecto",
     "back": "Volver"
   },
   "step3": {
