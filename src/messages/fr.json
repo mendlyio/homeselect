@@ -1,0 +1,71 @@
+{
+  "meta": {
+    "title": "HomeSelect - Comparez 3 devis gratuits pour vos travaux",
+    "description": "Recevez 3 devis comparatifs gratuits de professionnels certifiés et assurés. Rénovation, peinture, jardinage, climatisation."
+  },
+  "header": {
+    "tagline": "Votre projet, nos experts"
+  },
+  "trust": {
+    "badge": "Entreprises certifiées & assurées",
+    "subtitle": "Nous travaillons exclusivement avec des professionnels vérifiés"
+  },
+  "hero": {
+    "title": "Comparez 3 devis gratuits",
+    "titleHighlight": "pour vos travaux",
+    "subtitle": "Recevez des offres de professionnels certifiés et assurés, en quelques clics. Sans engagement."
+  },
+  "valueProps": {
+    "quotes": "3 devis gratuits",
+    "quotesDesc": "Comparez les offres",
+    "certified": "100% certifié",
+    "certifiedDesc": "Pros assurés & vérifiés",
+    "fast": "Réponse en 24h",
+    "fastDesc": "Rapide & sans engagement"
+  },
+  "step1": {
+    "title": "Quel service recherchez-vous ?",
+    "subtitle": "Sélectionnez un ou plusieurs domaines pour recevoir vos 3 devis",
+    "renovation": "Rénovation",
+    "painting": "Peinture",
+    "gardening": "Jardinage",
+    "ac": "Climatisation",
+    "plumbing": "Plomberie",
+    "electrical": "Électricité",
+    "handyman": "Bricolage",
+    "doors": "Portes & Fenêtres",
+    "moving": "Déménagement",
+    "next": "Préciser mon projet"
+  },
+  "step2": {
+    "title": "Dernière étape !",
+    "subtitle": "Vos coordonnées pour recevoir vos 3 devis comparatifs",
+    "ownerTitle": "Vous êtes",
+    "owner": "Propriétaire",
+    "tenant": "Locataire",
+    "name": "Votre nom complet",
+    "namePlaceholder": "Jean Dupont",
+    "phone": "Votre numéro de téléphone",
+    "phonePlaceholder": "50 123 4567",
+    "submit": "Voir les offres disponibles",
+    "back": "Retour"
+  },
+  "step3": {
+    "title": "C'est tout bon !",
+    "subtitle": "3 professionnels qualifiés vous contacteront sous 24h avec leur meilleure offre.",
+    "summary": "Récapitulatif de votre demande",
+    "services": "Services demandés",
+    "status": "Statut",
+    "contact": "Contact",
+    "whatsNext": "Et maintenant ?",
+    "whatsNextDesc": "Comparez les 3 devis reçus et choisissez le professionnel qui vous convient le mieux. C'est gratuit et sans engagement.",
+    "newRequest": "Faire une autre demande"
+  },
+  "validation": {
+    "selectService": "Veuillez sélectionner au moins un service",
+    "selectStatus": "Veuillez indiquer si vous êtes propriétaire ou locataire",
+    "enterName": "Veuillez entrer votre nom",
+    "enterPhone": "Veuillez entrer votre numéro de téléphone",
+    "phoneFormat": "Numéro de téléphone invalide"
+  }
+}

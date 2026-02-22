@@ -1,0 +1,71 @@
+{
+  "meta": {
+    "title": "HomeSelect - Vergelijk 3 gratis offertes voor uw project",
+    "description": "Ontvang 3 gratis vergelijkende offertes van gecertificeerde en verzekerde vakmensen. Renovatie, schilderwerk, tuinonderhoud, airconditioning."
+  },
+  "header": {
+    "tagline": "Uw project, onze experts"
+  },
+  "trust": {
+    "badge": "Gecertificeerde & verzekerde bedrijven",
+    "subtitle": "Wij werken uitsluitend met geverifieerde vakmensen"
+  },
+  "hero": {
+    "title": "Vergelijk 3 gratis offertes",
+    "titleHighlight": "voor uw project",
+    "subtitle": "Ontvang aanbiedingen van gecertificeerde en verzekerde vakmensen in slechts een paar klikken. Vrijblijvend."
+  },
+  "valueProps": {
+    "quotes": "3 gratis offertes",
+    "quotesDesc": "Vergelijk aanbiedingen",
+    "certified": "100% gecertificeerd",
+    "certifiedDesc": "Verzekerde & geverifieerde pros",
+    "fast": "Antwoord in 24u",
+    "fastDesc": "Snel & vrijblijvend"
+  },
+  "step1": {
+    "title": "Welke service heeft u nodig?",
+    "subtitle": "Selecteer één of meer gebieden om uw 3 offertes te ontvangen",
+    "renovation": "Renovatie",
+    "painting": "Schilderwerk",
+    "gardening": "Tuinonderhoud",
+    "ac": "Airconditioning",
+    "plumbing": "Loodgieter",
+    "electrical": "Elektriciteit",
+    "handyman": "Klusjesman",
+    "doors": "Deuren & Ramen",
+    "moving": "Verhuizing",
+    "next": "Mijn project specificeren"
+  },
+  "step2": {
+    "title": "Laatste stap!",
+    "subtitle": "Uw gegevens om uw 3 vergelijkende offertes te ontvangen",
+    "ownerTitle": "U bent",
+    "owner": "Eigenaar",
+    "tenant": "Huurder",
+    "name": "Uw volledige naam",
+    "namePlaceholder": "Jan Janssen",
+    "phone": "Uw telefoonnummer",
+    "phonePlaceholder": "50 123 4567",
+    "submit": "Beschikbare aanbiedingen bekijken",
+    "back": "Terug"
+  },
+  "step3": {
+    "title": "Helemaal klaar!",
+    "subtitle": "3 gekwalificeerde vakmensen nemen binnen 24 uur contact met u op met hun beste aanbod.",
+    "summary": "Samenvatting van uw aanvraag",
+    "services": "Gevraagde diensten",
+    "status": "Status",
+    "contact": "Contact",
+    "whatsNext": "Wat nu?",
+    "whatsNextDesc": "Vergelijk de 3 ontvangen offertes en kies de vakman die het beste bij u past. Gratis en vrijblijvend.",
+    "newRequest": "Nieuwe aanvraag doen"
+  },
+  "validation": {
+    "selectService": "Selecteer ten minste één dienst",
+    "selectStatus": "Geef aan of u eigenaar of huurder bent",
+    "enterName": "Voer uw naam in",
+    "enterPhone": "Voer uw telefoonnummer in",
+    "phoneFormat": "Ongeldig telefoonnummer"
+  }
+}

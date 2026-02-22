@@ -1,0 +1,71 @@
+{
+  "meta": {
+    "title": "HomeSelect - Vergleichen Sie 3 kostenlose Angebote für Ihr Projekt",
+    "description": "Erhalten Sie 3 kostenlose Vergleichsangebote von zertifizierten und versicherten Fachleuten. Renovierung, Malerarbeiten, Gartenarbeit, Klimaanlagen."
+  },
+  "header": {
+    "tagline": "Ihr Projekt, unsere Experten"
+  },
+  "trust": {
+    "badge": "Zertifizierte & versicherte Unternehmen",
+    "subtitle": "Wir arbeiten ausschließlich mit geprüften Fachleuten"
+  },
+  "hero": {
+    "title": "Vergleichen Sie 3 kostenlose Angebote",
+    "titleHighlight": "für Ihr Projekt",
+    "subtitle": "Erhalten Sie Angebote von zertifizierten und versicherten Fachleuten mit wenigen Klicks. Unverbindlich."
+  },
+  "valueProps": {
+    "quotes": "3 kostenlose Angebote",
+    "quotesDesc": "Angebote vergleichen",
+    "certified": "100% zertifiziert",
+    "certifiedDesc": "Versicherte & geprüfte Profis",
+    "fast": "Antwort in 24h",
+    "fastDesc": "Schnell & unverbindlich"
+  },
+  "step1": {
+    "title": "Welchen Service brauchen Sie?",
+    "subtitle": "Wählen Sie einen oder mehrere Bereiche für Ihre 3 Angebote",
+    "renovation": "Renovierung",
+    "painting": "Malerarbeiten",
+    "gardening": "Gartenarbeit",
+    "ac": "Klimaanlage",
+    "plumbing": "Sanitär",
+    "electrical": "Elektrik",
+    "handyman": "Handwerker",
+    "doors": "Türen & Fenster",
+    "moving": "Umzug",
+    "next": "Mein Projekt angeben"
+  },
+  "step2": {
+    "title": "Letzter Schritt!",
+    "subtitle": "Ihre Daten für den Erhalt Ihrer 3 Vergleichsangebote",
+    "ownerTitle": "Sie sind",
+    "owner": "Eigentümer",
+    "tenant": "Mieter",
+    "name": "Ihr vollständiger Name",
+    "namePlaceholder": "Max Mustermann",
+    "phone": "Ihre Telefonnummer",
+    "phonePlaceholder": "50 123 4567",
+    "submit": "Verfügbare Angebote anzeigen",
+    "back": "Zurück"
+  },
+  "step3": {
+    "title": "Alles erledigt!",
+    "subtitle": "3 qualifizierte Fachleute werden Sie innerhalb von 24h mit ihrem besten Angebot kontaktieren.",
+    "summary": "Zusammenfassung Ihrer Anfrage",
+    "services": "Angeforderte Dienste",
+    "status": "Status",
+    "contact": "Kontakt",
+    "whatsNext": "Wie geht es weiter?",
+    "whatsNextDesc": "Vergleichen Sie die 3 erhaltenen Angebote und wählen Sie den Fachmann, der am besten zu Ihnen passt. Kostenlos und unverbindlich.",
+    "newRequest": "Neue Anfrage stellen"
+  },
+  "validation": {
+    "selectService": "Bitte wählen Sie mindestens einen Service",
+    "selectStatus": "Bitte geben Sie an, ob Sie Eigentümer oder Mieter sind",
+    "enterName": "Bitte geben Sie Ihren Namen ein",
+    "enterPhone": "Bitte geben Sie Ihre Telefonnummer ein",
+    "phoneFormat": "Ungültige Telefonnummer"
+  }
+}

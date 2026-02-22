@@ -1,0 +1,71 @@
+{
+  "meta": {
+    "title": "HomeSelect - Compara 3 presupuestos gratis para tu proyecto",
+    "description": "Recibe 3 presupuestos comparativos gratuitos de profesionales certificados y asegurados. Renovación, pintura, jardinería, climatización."
+  },
+  "header": {
+    "tagline": "Tu proyecto, nuestros expertos"
+  },
+  "trust": {
+    "badge": "Empresas certificadas y aseguradas",
+    "subtitle": "Trabajamos exclusivamente con profesionales verificados"
+  },
+  "hero": {
+    "title": "Compara 3 presupuestos gratis",
+    "titleHighlight": "para tu proyecto",
+    "subtitle": "Recibe ofertas de profesionales certificados y asegurados en pocos clics. Sin compromiso."
+  },
+  "valueProps": {
+    "quotes": "3 presupuestos gratis",
+    "quotesDesc": "Compara ofertas",
+    "certified": "100% certificado",
+    "certifiedDesc": "Pros asegurados y verificados",
+    "fast": "Respuesta en 24h",
+    "fastDesc": "Rápido y sin compromiso"
+  },
+  "step1": {
+    "title": "¿Qué servicio necesitas?",
+    "subtitle": "Selecciona una o más áreas para recibir tus 3 presupuestos",
+    "renovation": "Renovación",
+    "painting": "Pintura",
+    "gardening": "Jardinería",
+    "ac": "Climatización",
+    "plumbing": "Fontanería",
+    "electrical": "Electricidad",
+    "handyman": "Manitas",
+    "doors": "Puertas & Ventanas",
+    "moving": "Mudanza",
+    "next": "Precisar mi proyecto"
+  },
+  "step2": {
+    "title": "¡Último paso!",
+    "subtitle": "Tus datos para recibir tus 3 presupuestos comparativos",
+    "ownerTitle": "Eres",
+    "owner": "Propietario",
+    "tenant": "Inquilino",
+    "name": "Tu nombre completo",
+    "namePlaceholder": "Juan García",
+    "phone": "Tu número de teléfono",
+    "phonePlaceholder": "50 123 4567",
+    "submit": "Ver ofertas disponibles",
+    "back": "Volver"
+  },
+  "step3": {
+    "title": "¡Todo listo!",
+    "subtitle": "3 profesionales cualificados te contactarán en 24h con su mejor oferta.",
+    "summary": "Resumen de tu solicitud",
+    "services": "Servicios solicitados",
+    "status": "Estado",
+    "contact": "Contacto",
+    "whatsNext": "¿Qué sigue?",
+    "whatsNextDesc": "Compara los 3 presupuestos recibidos y elige al profesional que más te convenga. Es gratis y sin compromiso.",
+    "newRequest": "Hacer otra solicitud"
+  },
+  "validation": {
+    "selectService": "Por favor selecciona al menos un servicio",
+    "selectStatus": "Por favor indica si eres propietario o inquilino",
+    "enterName": "Por favor ingresa tu nombre",
+    "enterPhone": "Por favor ingresa tu número de teléfono",
+    "phoneFormat": "Número de teléfono inválido"
+  }
+}

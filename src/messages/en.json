@@ -1,0 +1,71 @@
+{
+  "meta": {
+    "title": "HomeSelect - Compare 3 free quotes for your project",
+    "description": "Receive 3 free comparative quotes from certified and insured professionals. Renovation, painting, gardening, air conditioning."
+  },
+  "header": {
+    "tagline": "Your project, our experts"
+  },
+  "trust": {
+    "badge": "Certified & insured companies",
+    "subtitle": "We exclusively work with verified professionals"
+  },
+  "hero": {
+    "title": "Compare 3 free quotes",
+    "titleHighlight": "for your project",
+    "subtitle": "Get offers from certified and insured professionals in just a few clicks. No commitment."
+  },
+  "valueProps": {
+    "quotes": "3 free quotes",
+    "quotesDesc": "Compare offers",
+    "certified": "100% certified",
+    "certifiedDesc": "Insured & verified pros",
+    "fast": "Response in 24h",
+    "fastDesc": "Fast & no commitment"
+  },
+  "step1": {
+    "title": "What service do you need?",
+    "subtitle": "Select one or more areas to receive your 3 quotes",
+    "renovation": "Renovation",
+    "painting": "Painting",
+    "gardening": "Gardening",
+    "ac": "Air Conditioning",
+    "plumbing": "Plumbing",
+    "electrical": "Electrical",
+    "handyman": "Handyman",
+    "doors": "Doors & Windows",
+    "moving": "Moving",
+    "next": "Specify my project"
+  },
+  "step2": {
+    "title": "Last step!",
+    "subtitle": "Your details to receive your 3 comparative quotes",
+    "ownerTitle": "You are a",
+    "owner": "Owner",
+    "tenant": "Tenant",
+    "name": "Your full name",
+    "namePlaceholder": "John Smith",
+    "phone": "Your phone number",
+    "phonePlaceholder": "50 123 4567",
+    "submit": "See available offers",
+    "back": "Back"
+  },
+  "step3": {
+    "title": "All set!",
+    "subtitle": "3 qualified professionals will contact you within 24h with their best offer.",
+    "summary": "Your request summary",
+    "services": "Requested services",
+    "status": "Status",
+    "contact": "Contact",
+    "whatsNext": "What's next?",
+    "whatsNextDesc": "Compare the 3 quotes you receive and choose the professional that suits you best. It's free and with no commitment.",
+    "newRequest": "Make another request"
+  },
+  "validation": {
+    "selectService": "Please select at least one service",
+    "selectStatus": "Please indicate if you are an owner or tenant",
+    "enterName": "Please enter your name",
+    "enterPhone": "Please enter your phone number",
+    "phoneFormat": "Invalid phone number"
+  }
+}
