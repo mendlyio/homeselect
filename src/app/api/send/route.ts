@@ -58,11 +58,10 @@ export async function POST(req: NextRequest) {
     }
 
     const resend = new Resend(apiKey);
-    const toEmail = process.env.RESEND_TO_EMAIL || "info@bronfortvalentin.com";
 
     const { error } = await resend.emails.send({
       from: "HomeSelect <info@bronfortvalentin.com>",
-      to: ["info@bronfortvalentin.com"],
+      to: ["info@bronfortvalentin.com", "contact@casaselectuae.com"],
       subject: `Nouveau lead HomeSelect - ${name} (${serviceList})`,
       html,
     });
